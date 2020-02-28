@@ -1,0 +1,1 @@
+1000|Tide|120|8|1001|Surf Excel|130|12|1002|Maggie|12|30|1003|Yippee|12|24|1004|Moov|90|12|1005|Volini|85|16|1006|Chocos|55|10|1007|Kurkure|20|24|1008|Glucon-D|240|22|1009|Clinic Plus|78|6|1010|Good Day|26|23|1011|Oreo|30|15|1012|Magnum|70|14|
